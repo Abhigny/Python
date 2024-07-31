@@ -1,0 +1,5 @@
+f_name = input("Enter your first name : ")
+l_name = input("Enter your last name : ")
+f_name = f_name.capitalize()
+l_name = l_name.capitalize()
+print(f"Your name is : {f_name} {l_name}")
